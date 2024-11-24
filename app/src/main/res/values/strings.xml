@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">PabloMolina_Proyecto1</string>
+    <string name="lorena_ipsum_dolores">Lorena Ipsum Dolores</string>
+    <string name="loremipsum_dolorsitam_es">LoremIpsum@Dolorsitam.es</string>
+    <string name="_612_345_678">612 345 678</string>
+    <string name="listar_pedidos">Listar pedidos</string>
+    <string name="nuevo_pedido">Nuevo pedido</string>
+    <string name="coche">Coche</string>
+    <string name="gasolina">Gasolina</string>
+    <string name="moto">Moto</string>
+    <string name="_125cc">125cc</string>
+    <string name="patin">Patin</string>
+    <string name="gps">GPS</string>
+    <string name="_50cc">50cc</string>
+    <string name="_250cc">250cc</string>
+    <string name="diesel">Diesel</string>
+    <string name="electrico">Eléctrico</string>
+    <string name="dias_a_alquilar">Dias a alquilar</string>
+    <string name="precio">"Precio: %1$s"</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="tu_pedido">TU PEDIDO</string>
+    <string name="pagar">Pagar</string>
+    <string name="visa">VISA</string>
+    <string name="mastercard">MASTERCARD</string>
+    <string name="euro_6000">EURO 6000</string>
+    <string name="n_mero_tarjeta">Número tarjeta</string>
+    <string name="fecha_de_caducidad">Fecha de caducidad</string>
+    <string name="cvc">CVC</string>
+    <string name="confirma_el_pago">CONFIRMA EL PAGO</string>
+    <string name="coste_100">Coste: $100</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="tus_pedidos">Tus pedidos</string>
+    <string name="confirma_tu_pedido">Confirma tu pedido</string>
+    <string name="metodo_de_pago">Metodo de pago</string>
+    <string name="atras">Atras</string>
+</resources>
